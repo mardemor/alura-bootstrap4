@@ -10,5 +10,5 @@
 <li>Padronize os componentes de seu site ou aplicação web.</li>
 </ul>
 <p>Obs.: Código adaptado para Bootstrap 5.</p>
-<p>Acesse o <a href="https://mardemor.github.io/alura-bootstrap4">site</a> do projeto.</p>
+<p>Acesse o <a href="https://mardemor.github.io/alura-bootstrap4/">site</a> do projeto.</p>
  
